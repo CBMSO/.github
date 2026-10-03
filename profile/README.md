@@ -1,6 +1,5 @@
 <div align="center">
-  <style>.markdown-body .cbms-logo{background-color:transparent!important;border-radius:0!important}</style>
-  <img class="cbms-logo" src="https://raw.githubusercontent.com/CBMSO/.github/main/profile/logo.svg" width="88" height="88" alt="CBMS logo">
+  <img src="https://raw.githubusercontent.com/CBMSO/.github/main/profile/logo.svg" width="88" height="88" alt="CBMS logo">
   <h1>Computational Biomedical Systems</h1>
   <p><strong>Engineering the unknown in biomedical systems.</strong></p>
   <p>
