@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CBMSO/.github/main/profile/logo.svg" alt="CBMS logo">
+  <img src="https://raw.githubusercontent.com/CBMSO/.github/main/profile/cbms-logo.svg" alt="CBMS logo">
   <h1>Computational Biomedical Systems</h1>
   <p><strong>Engineering the unknown in biomedical systems.</strong></p>
   <p>
