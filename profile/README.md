@@ -49,7 +49,7 @@ measured, and defended.
 Not sure it fits? Send it anyway — we would rather decline honestly than let a good problem
 go unanswered.
 
-| | |
+| Channel | Address |
 | :-- | :-- |
 | **Website** | <https://cbmslabs.pages.dev> |
 | **Research collaborations** | [cbmslabs+research@gmail.com](mailto:cbmslabs+research@gmail.com) |
